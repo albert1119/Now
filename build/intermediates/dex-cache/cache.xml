@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/albert/AndroidStudioProjects/Now/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/albert/AndroidStudioProjects/Now/app/build/intermediates/pre-dexed/debug/classes-229ed11d0c197bb5e0eee5c438f394f019b5bdde.jar" />
+    </item>
+    <item
+        jar="/Users/albert/AndroidStudioProjects/Now/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/albert/AndroidStudioProjects/Now/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-ee1fc6381c63349a50b9c704595598916899eb66.jar" />
+    </item>
+    <item
+        jar="/Users/albert/AndroidStudioProjects/Now/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/albert/AndroidStudioProjects/Now/app/build/intermediates/pre-dexed/debug/classes-e87947993db1c24f66ed9d0e3c97620b4331a119.jar" />
+    </item>
+    <item
+        jar="/Users/albert/AndroidStudioProjects/Now/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/albert/AndroidStudioProjects/Now/app/build/intermediates/pre-dexed/debug/classes-92e06db767ec18ba115c7a366cd07e507af0e72e.jar" />
+    </item>
+    <item
+        jar="/Users/albert/AndroidStudioProjects/Now/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/albert/AndroidStudioProjects/Now/app/build/intermediates/pre-dexed/debug/classes-322a600413ffd89b80d510053faed75820ecfb2f.jar" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/albert/AndroidStudioProjects/Now/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-f851e1f8b356482a10e47e8c7c0986bb5222f709.jar" />
+    </item>
+
+</items>
